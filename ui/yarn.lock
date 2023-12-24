@@ -2889,7 +2889,8 @@ anymatch@~3.1.2:
     picomatch "^2.0.4"
 
 "api-common-protos@link:./lib/api-common-protos":
-  version "1.0.0"
+  version "0.0.0"
+  uid ""
 
 aproba@^1.0.3, aproba@^1.1.1:
   version "1.2.0"
@@ -8741,10 +8742,10 @@ good-listener@^1.2.2:
   dependencies:
     delegate "^3.1.2"
 
-google-protobuf@^3.21.0:
-  version "3.21.0"
-  resolved "https://registry.yarnpkg.com/google-protobuf/-/google-protobuf-3.21.0.tgz#8dfa3fca16218618d373d414d3c1139e28034d6e"
-  integrity sha512-byR7MBTK4tZ5PZEb+u5ZTzpt4SfrTxv5682MjPlHN16XeqgZE2/8HOIWeiXe8JKnT9OVbtBGhbq8mtvkK8cd5g==
+google-protobuf@^3.21.2:
+  version "3.21.2"
+  resolved "https://registry.yarnpkg.com/google-protobuf/-/google-protobuf-3.21.2.tgz#4580a2bea8bbb291ee579d1fefb14d6fa3070ea4"
+  integrity sha512-3MSOYFO5U9mPGikIYCzK0SaThypfGgS6bHqrUGXG3DPHCrb+txNqeEcns1W0lkGfk0rCyNXm7xB9rMxnCiZOoA==
 
 graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.3, graceful-fs@^4.1.6, graceful-fs@^4.2.0, graceful-fs@^4.2.4, graceful-fs@^4.2.9:
   version "4.2.9"
@@ -8767,7 +8768,8 @@ growly@^1.3.0:
   integrity sha1-8QdIy+dq+WS3yWyTxrzCivEgwIE=
 
 "grpc-web@link:./lib/grpc-web":
-  version "1.2.1"
+  version "0.0.0"
+  uid ""
 
 gzip-size@^5.0.0:
   version "5.1.1"
@@ -11267,7 +11269,8 @@ onetime@^5.1.0, onetime@^5.1.2:
     mimic-fn "^2.1.0"
 
 "opaqueany@link:./lib/opaqueany":
-  version "1.0.0"
+  version "0.0.0"
+  uid ""
 
 opener@^1.5.1:
   version "1.5.1"
@@ -14285,10 +14288,12 @@ watchpack@^2.4.0:
     graceful-fs "^4.1.2"
 
 "waypoint-client@link:./lib/waypoint-client":
-  version "1.0.0"
+  version "0.0.0"
+  uid ""
 
 "waypoint-pb@link:./lib/waypoint-pb":
-  version "1.0.0"
+  version "0.0.0"
+  uid ""
 
 wcwidth@^1.0.1:
   version "1.0.1"
