@@ -128,8 +128,8 @@
     "edition": "octane"
   },
   "dependencies": {
-    "@hashicorp/design-system-components": "^1.0.4",
-    "@hashicorp/ember-flight-icons": "^2.0.10",
+    "@hashicorp/design-system-components": "^4.0.0",
+    "@hashicorp/ember-flight-icons": "^5.0.0",
     "@types/google-protobuf": "^3.15.6",
     "api-common-protos": "link:./lib/api-common-protos",
     "ember-cli-typescript-blueprints": "^3.0.0",
